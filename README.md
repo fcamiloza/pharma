@@ -1,6 +1,7 @@
 # pharma
 relating to pharm practices
 
+Meant as an exercise in arrays as well as malloc.
 
 zoi.c prompts user for circumference values in mm. The assumption is these values are being obtained from 'zones of inhibition' on a petri
 dish. 
